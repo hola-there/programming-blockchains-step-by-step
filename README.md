@@ -423,8 +423,9 @@ Trivia Quiz: What's the unique id(entifier) of a block?
 - (A) (Secure) Hash
 - (B) Block Hash
 - (C) Digital (Crypto) Digest
+- (D) All of the above
 
-A: All of the above :-). (Secure) hash == block hash == digital (crypto) digest.
+D: All of the above :-). (Secure) hash == block hash == digital (crypto) digest.
 
 Thus, add the (secure) hash of the prev(ious) block to
 the new block and the hash calculation e.g.:
